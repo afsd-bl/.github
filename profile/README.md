@@ -1,7 +1,5 @@
 ## Welcome 👋
 
-Amt füd Daten und Statistik Basel-Landschaft office promotes administrative-wide, efficient and transparent data management and is responsible for public statistics in the canton. It informs the public about developments of population, economy, public finances, construction, education and healthcare in addition to other fields.
-
 <!--
 
 **Here are some ideas to get you started:**
