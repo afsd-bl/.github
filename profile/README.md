@@ -1,7 +1,7 @@
 ## Welcome 👋
 
 # Where you are 📍
-This is the GitHub organization of the [Amt für Daten und Statistik Basel-Landschaft](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/daten-statistik). Here, we publish code and documents used in our daily work that may also be of interest to the community and external partners.
+This is the GitHub organization of the [Office for Data and Statistics BL (Amt für Daten und Statistik Basel-Landschaft)](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/daten-statistik). Here, we publish code and documents used in our daily work that may also be of interest to the community and external partners.
 
 # Contact ☎️
 Different divisions within our department publish their code in this organization. The quickest way to get answers to your questions is to check the README file in each repository for specific contacts. If no contact information is provided in a repository, feel free to reach us at [daten@bl.ch](mailto:daten@bl.ch).
