@@ -1,12 +1,10 @@
 ## Welcome 👋
 
-<!--
+# Where you are 📍
+This is the GitHub organization of the [Office for Data and Statistics BL (Amt für Daten und Statistik Basel-Landschaft)](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/daten-statistik). Here, we publish code and documents used in our daily work that may also be of interest to the community and external partners.
 
-**Here are some ideas to get you started:**
+# Contact ☎️
+Different divisions within our department publish their code in this organization. The quickest way to get answers to your questions is to check the README file in each repository for specific contacts. If no contact information is provided in a repository, feel free to reach us at [daten@bl.ch](mailto:daten@bl.ch).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Contribute 🖥️
+Most of our code development takes place in a closed GitLab instance, making this GitHub organization primarily an outlet for completed projects. If you'd like to contribute, we recommend contacting us directly to get the latest updates on the codebase. However, you're also welcome to fork and use the code in accordance with the individual repository's usage license.
